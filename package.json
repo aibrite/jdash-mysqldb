@@ -1,0 +1,18 @@
+{
+    "name": "jdash-mysqldb",
+    "version": "1.0.0",
+    "description": "JDash MySQL provider",
+    "main": "./lib/index.js",
+    "types": "./lib/definitions/index.d.ts",
+    "scripts": {
+        "test": "mocha -u tdd --timeout 999999 --colors lib/tests"
+    },
+    "devDependencies": {},
+    "dependencies": {
+        "jdash-api-core": "^1.0.0",
+        "jdash-core": "^1.0.0",
+        "mysql": "^2.13.0"
+    },
+    "author": "Aibrite Inc.",
+    "license": "ISC"
+}
