@@ -1,6 +1,6 @@
 {
     "name": "jdash-mysqldb",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "JDash MySQL provider",
     "main": "./lib/index.js",
     "types": "./lib/definitions/index.d.ts",
